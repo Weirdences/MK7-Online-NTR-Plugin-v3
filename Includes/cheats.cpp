@@ -617,7 +617,7 @@ namespace CTRPluginFramework
 		if (Controller::IsKeyDown(X))
 			writeItem(9);
 		if (Controller::IsKeyDown(Y))
-			writeItem(13);
+			writeItem(3);
 		if (Controller::IsKeyDown(Start))
 			writeItem(6);
 		if (Controller::IsKeyDown(Select))
